@@ -166,10 +166,11 @@ hide_edge_borders both
 # finds out, if available)
 bar {
     position top
-    status_command i3status
-    font pango:Sans Serif 9
-    separator_symbol " | "
     workspace_buttons yes
+    status_command i3blocks
+    #status_command i3status
+    #font pango:Sans Serif 9
+    #separator_symbol " | "
         
     colors {
         background $bg-color

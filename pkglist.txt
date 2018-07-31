@@ -1,3 +1,4 @@
+acpi
 acpi_call
 acpid
 adapta-gtk-theme
@@ -77,6 +78,7 @@ glib-perl
 glibc
 go
 google-chrome
+google-earth-pro
 gradle
 grep
 groff
@@ -103,6 +105,7 @@ iputils
 ipw2100-fw
 ipw2200-fw
 jfsutils
+jq
 jre8-openjdk
 keybase-bin
 konversation
@@ -125,7 +128,6 @@ man-pages
 mariadb
 maven
 mdadm
-minecraft
 mlocate
 modemmanager
 nano
@@ -144,6 +146,7 @@ openvpn-pia
 orage
 os-prober
 pacman
+pacman-contrib
 patch
 pbget
 pciutils
@@ -181,11 +184,14 @@ shadow
 simplescreenrecorder
 slack-desktop
 smartmontools
+soundconverter
 splix
 spotify
+steam
 streamripper
 sudo
 sysfsutils
+sysstat
 system-config-printer
 systemd
 systemd-sysvcompat
