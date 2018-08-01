@@ -3,7 +3,7 @@
     "editor.tabSize": 2,
     "editor.tabCompletion": true,
     "editor.minimap.enabled": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "editor.parameterHints": false,
     "editor.formatOnType": false,
     "editor.formatOnPaste": false,
@@ -19,7 +19,7 @@
     "editor.dragAndDrop": false,
     "editor.accessibilitySupport": "off",
     "editor.links": false,
-    "editor.lineHeight": 19,
+    "editor.lineHeight": 18,
     "workbench.iconTheme": "vs-minimal",
     "editor.detectIndentation": false,
     "explorer.confirmDragAndDrop": false,
@@ -34,10 +34,10 @@
     "editor.wordWrap": "bounded",
     "editor.renderControlCharacters": false,
     "editor.renderWhitespace": "all",
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
     "editor.wordWrapColumn": 120,
     "editor.wrappingIndent": "indent",
-    "workbench.colorTheme": "Visual Studio Light",
-    "editor.fontFamily": "monospace",
-    "markdown.preview.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'HelveticaNeue-Light', 'Droid Sans', sans-serif"
+    "workbench.colorTheme": "Night Owl",
+    "editor.fontFamily": "Bitstream Vera Sans Mono",
+    "markdown.preview.fontFamily": "sans-serif"
   }
