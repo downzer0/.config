@@ -8,12 +8,14 @@
 # If the above line is not correctly displayed, fix your editor first!
 ###############################################################################
 
+# https://material.io/design/color/the-color-system.html#tools-for-picking-colors
+#
 general {
     interval = 1
     colors = true
-    color_good = '#88b090'
-    color_degraded = '#ccdc90'
-    color_bad = '#e89393'
+    color_good = '#b3e5fc'
+    color_degraded = '#ffe0b2'
+    color_bad = '#ff5722'
 }
 
 order += "volume master"
@@ -23,52 +25,11 @@ order += "wireless wlp4s0"
 order += "cpu_usage 0"
 order += "cpu_temperature 0"
 order += "tztime local"
-# order += "load"
-#order += "run_watch DHCP"
-#order += "ipv6"
-#order += "run_watch VPN"
-# order += "ethernet enp5s0"
-#order += "battery 0"
-#order += "battery 1"
 
 wireless wlp4s0 {
    format_up = "WIFI %quality %essid %ip"
    format_down = ""
 }
-
-# ethernet enp5s0 {
-#     #if you use %speed, i3status requires root privileges
-#     format_up = "%ip (%speed)"
-#     format_down = ""
-# }
-
-# battery 0 {
-#     format = "BAT0 %status %percentage %remaining"
-#     format_down = ""
-#     last_full_capacity = true
-#     integer_battery_capacity = true
-#     low_threshold = 15
-#     threshold_type = percentage
-#     hide_seconds = true
-#     status_chr = "^"
-#     status_bat = ""
-#     status_unk = ""
-#     status_full = ""
-# }
-
-# battery 1 {
-#     format = "BAT1 %status %percentage %remaining"
-#     format_down = ""
-#     last_full_capacity = true
-#     integer_battery_capacity = true
-#     low_threshold = 15
-#     threshold_type = percentage
-#     hide_seconds = true
-#     status_chr = "^"
-#     status_bat = ""
-#     status_unk = ""
-#     status_full = ""
-# }
 
 battery all {
     format = "BAT %status %percentage (%remaining)"
@@ -84,20 +45,8 @@ battery all {
     status_full = "FULL"
 }
 
-# run_watch DHCP {
-#     pidfile = "/var/run/dhclient*.pid"
-# }
-
-# run_watch VPN {
-#     pidfile = "/var/run/vpnc/pid"
-# }
-
 tztime local {
     format = "%m/%d/%Y %H:%M"
-}
-
-load {
-    format = "RAM %1min"
 }
 
 cpu_usage {
@@ -105,14 +54,14 @@ cpu_usage {
 }
 
 cpu_temperature 0 {
-	format = "TEMP %degrees°C"
+    format = "TEMP %degrees°C"
 }
 
 disk "/" {
-	format = "SSD %avail"
-	prefix_type	= custom
-	low_threshold = 20
-	threshold_type = percentage_avail
+    format = "SSD %avail"
+    prefix_type	= custom
+    low_threshold = 20
+    threshold_type = percentage_avail
 }
 
 volume master {
