@@ -1,253 +1,154 @@
-acpi
-acpi_call
-acpid
-adapta-gtk-theme
-adobe-source-code-pro-fonts
-alsa-utils
-android-tools
-antergos-common-meta
-antergos-desktop-settings
-antergos-keyring
-antergos-midnight-timers
-antergos-mirrorlist
-antergos-xfce-meta
-arandr
-arc-solid-gtk-theme
-aseprite
-atom
-aurman
-autoconf
-automake
-b43-fwcutter
-bash
-bash-completion
-bind-tools
-binutils
-bison
-blueman
-bluez
-bluez-utils
-brother-mfc-l2700dw
-btrfs-progs
-bzip2
-bzr
-ccid
-cifs-utils
-cmake
-compton
-coolkey
-coreutils
-cpupower
-crda
-cryptsetup
-cups
-cups-pdf
-cups-pk-helper
-device-mapper
-dhcpcd
-diffutils
-discord
-dmenu
-dmidecode
-dmraid
-docker
-dosfstools
-e2fsprogs
-efibootmgr
-electrum
-evolution
-exfat-utils
-f2fs-tools
-fakeroot
-file
-filesystem
-filezilla
-findutils
-firefox
-flex
-foomatic-db
-foomatic-db-gutenprint-ppds
-foomatic-db-ppds
-gawk
-gcc
-gcc-libs
-gettext
-gimp
-git
-glib-perl
-glibc
-go
-google-chrome
-google-earth-pro
-gradle
-grep
-groff
-grub
-grub2-theme-antergos
-gsfonts
-gufw
-gzip
-haveged
-hplip
-htop
-i3-gaps
-i3blocks
-i3lock
-i3status
-icaclient
-inetutils
-inkscape
-insomnia
-intel-ucode
-inxi
-iproute2
-iputils
-ipw2100-fw
-ipw2200-fw
-jfsutils
-jq
-jre8-openjdk
-keybase-bin
-konversation
-less
-lib32-libldap
-libreoffice-fresh
-libtool
-licenses
-linux
-linux-headers
-logrotate
-lsb-release
-lshw
-lvm2
-lxappearance
-m4
-make
-man-db
-man-pages
-mariadb
-maven
-mdadm
-mlocate
-modemmanager
-nano
-net-tools
-netctl
-networkmanager
-nfs-utils
-nilfs-utils
-nodejs
-nss-mdns
-ntfs-3g
-nvm
-opensc
-openssh
-openvpn-pia
-orage
-os-prober
-pacman
-pacman-contrib
-patch
-pbget
-pciutils
-pcmciautils
-pcsc-tools
-peek
-perl
-pgadmin4
-pia-nm
-pkgconf
-pkgfile
-postgresql
-powertop
-procps-ng
-psmisc
-pulseaudio-bluetooth
-python-gobject
-python-pyqt5
-python2-gnomekeyring
-python2-xdg
-python3-colorsysplus
-qt4
-qt5-styleplugins-git
-recordmydesktop
-redshift
-reflector
-reiserfsprogs
-rhythmbox
-rpm-org
-ruby
-s-nail
-screenfetch
-sed
-shadow
-simplescreenrecorder
-slack-desktop
-smartmontools
-soundconverter
-splix
-spotify
-steam
-streamripper
-sudo
-sysfsutils
-sysstat
-system-config-printer
-systemd
-systemd-sysvcompat
-tar
-terminator
-terminus-font
-texinfo
-thunar-media-tags-plugin
-tlp
-tp_smapi
-ttf-anonymous-pro
-ttf-fira-mono
-ttf-inconsolata
-ttf-ubuntu-font-family
-ufw
-unrar
-unzip
-usb_modeswitch
-usbutils
-util-linux
-vde2
-vi
-vim
-visual-studio-code-bin
-vlc
-wget
-which
-whois
-wireless_tools
-wpa_actiond
-x2goclient
-x86_energy_perf_policy
-xfce4-artwork
-xfce4-clipman-plugin
-xfce4-cpufreq-plugin
-xfce4-cpugraph-plugin
-xfce4-dict
-xfce4-diskperf-plugin
-xfce4-eyes-plugin
-xfce4-fsguard-plugin
-xfce4-genmon-plugin
-xfce4-mailwatch-plugin
-xfce4-mount-plugin
-xfce4-mpc-plugin
-xfce4-netload-plugin
-xfce4-notes-plugin
-xfce4-sensors-plugin
-xfce4-smartbookmark-plugin
-xfce4-systemload-plugin
-xfce4-time-out-plugin
-xfce4-timer-plugin
-xfce4-verve-plugin
-xfce4-wavelan-plugin
-xfce4-weather-plugin
-xfce4-xkb-plugin
-xfsprogs
-zd1211-firmware
-zoom
-zsh
+acpid 2.0.29-2
+adapta-gtk-theme 3.94.0.20-1
+adobe-source-code-pro-fonts 2.030ro+1.050it-4
+android-tools 9.0.0_r3-1
+antergos-common-meta 1.2-1
+antergos-keyring 20170524-1
+antergos-midnight-timers 1.0-3
+antergos-mirrorlist 20180729-1
+antergos-xfce-meta 1.3-2
+arandr 0.1.9-2
+arc-solid-gtk-theme 20180715-1
+aseprite 1.2.9-1
+atom 1.29.0-1
+aurman 2.17.1-1
+autoconf 2.69-4
+automake 1.15.1-1
+b43-fwcutter 019-2
+bind-tools 9.13.2-1
+bison 3.0.5-1
+blueman 2.0.5-3
+bluez-utils 5.50-3
+brother-mfc-l2700dw 3.2.0-1
+bzr 2.7.0-2
+certbot 0.26.1-1
+cmake 3.11.4-2
+compton 0.1_beta2.5-11
+coolkey 1.1.0_35-2
+cpupower 4.18-1
+cups-pdf 3.0.1-4
+discord 0.0.5-4
+docker 1:18.05.0-2
+electrum 3.2.2-2
+evolution 3.28.5-1
+exfat-utils 1.2.8-1
+f2fs-tools 1.11.0-2
+filezilla 3.35.2-1
+firefox 61.0.2-1
+foomatic-db-gutenprint-ppds 5.2.14-1
+fwupd 1.1.1-1
+gimp 2.10.4-2
+gnome-breeze-git 103.21c9617-1
+go 2:1.10.3-1
+google-chrome 68.0.3440.84-1
+google-earth-pro 7.3.2.5491-1
+gradle 4.9-1
+grub2-theme-antergos 0.1-1
+gufw 18.04.0-2
+haveged 1.9.2-1
+hplip 3.18.7-3
+htop 2.2.0-2
+hyper 2.0.0-1
+i3-gaps 4.15.0.1-2
+i3blocks 1.4-6
+inkscape 0.92.3-4
+insomnia 5.14.9-1
+intel-ucode 20180807-1
+inxi 2.3.56-1
+iputils 20180629.f6aac8d-2
+ipw2100-fw 1.3-8
+ipw2200-fw 3.1-6
+jcryptool 0.9.9-3
+jfsutils 1.1.15-5
+jq 1.5-6
+keybase-bin 2.3.0_20180625210111+fa6707df0c-1
+konversation 1.7.5-1
+libreoffice-fresh 6.0.6-2
+licenses 20171006-1
+linux-headers 4.17.14.arch1-1
+lshw B.02.18-2
+lxappearance 0.6.3-1
+make 4.2.1-2
+man-pages 4.16-1
+mariadb 10.1.35-1
+maven 3.5.2-1
+nano 2.9.8-1
+netctl 1.18-1
+nfs-utils 2.3.2-2
+nilfs-utils 2.2.7-1
+nvm 0.33.11-1
+opensc 0.18.0-1
+openvpn-pia 2018.01.25-4
+orage 4.12.1-4
+pacman-contrib 1.1.0-1
+patch 2.7.6-1
+paxtest 0.9.15-1
+pbget 2017.7-1
+pcmciautils 018-8
+pcsc-tools 1.5.3-1
+peek 1.3.1-2
+pgadmin4 3.0-3
+pia-nm 24-2
+pkgconf 1.5.3-1
+pkgfile 18-2
+postgresql 10.5-1
+powertop 2.9-1
+pwgen 2.08-1
+python2-gnomekeyring 2.32.0-17
+python2-xdg 0.26-2
+python3-colorsysplus 2017.11.5-1
+recordmydesktop 0.3.8.1-8
+redshift 1.12-2
+reiserfsprogs 3.6.27-1
+rhythmbox 3.4.2+4+ge123ad533-1
+rpm-org 4.13.0.1-1
+screenfetch 3.8.0-2
+simplescreenrecorder 0.3.11-1
+slack-desktop 3.1.0-1
+soundconverter 3.0.0-1
+splix 2.0.0-14
+spotify 1.0.77.338-1
+steam 1.0.0.55-1
+streamripper 1.64.6-4
+system-config-printer 1.5.11-3
+terminator 1.91-6
+terminus-font 4.46-1
+tlp 1.1-1
+ttf-anonymous-pro 1.003-3
+ttf-fira-mono 2:3.206-2
+ttf-inconsolata 1:2.0.0.1-3
+vde2 2.3.2-11
+vi 1:070224-3
+vim 8.1.0279-1
+visual-studio-code-bin 1.21.1-1
+vlc 3.0.3-3
+whois 5.3.2-1
+wireshark-qt 2.6.2-1
+x2goclient 4.1.2.1-1
+xclip 0.13-1
+xfce4-artwork 0.1.1a_git20110420-5
+xfce4-clipman-plugin 1.4.2-2
+xfce4-cpufreq-plugin 1.2.0-1
+xfce4-cpugraph-plugin 1.0.5-4
+xfce4-dict 0.8.1-1
+xfce4-diskperf-plugin 2.6.1-1
+xfce4-eyes-plugin 4.5.0-1
+xfce4-fsguard-plugin 1.1.0-1
+xfce4-genmon-plugin 4.0.1-1
+xfce4-mailwatch-plugin 1.2.0-7
+xfce4-mount-plugin 1.1.3-1
+xfce4-mpc-plugin 0.5.0-1
+xfce4-netload-plugin 1.3.1-1
+xfce4-notes-plugin 1.8.1-2
+xfce4-sensors-plugin 1.3.0-1
+xfce4-smartbookmark-plugin 0.5.0-1
+xfce4-systemload-plugin 1.2.1-1
+xfce4-time-out-plugin 1.0.2-2
+xfce4-timer-plugin 1.7.0-1
+xfce4-verve-plugin 2.0.0-1
+xfce4-wavelan-plugin 0.6.0-1
+xfce4-weather-plugin 0.8.10-1
+xfce4-xkb-plugin 0.8.1-1
+zd1211-firmware 1.5-1
+zoom 2.0.115900.1201-1
+zsh 5.5.1-2
