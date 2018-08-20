@@ -93,6 +93,7 @@ pkgconf 1.5.3-1
 pkgfile 18-2
 postgresql 10.5-1
 powertop 2.9-1
+proxychains-ng 4.13-1
 pwgen 2.08-1
 python2-gnomekeyring 2.32.0-17
 python2-xdg 0.26-2
@@ -114,6 +115,7 @@ system-config-printer 1.5.11-3
 terminator 1.91-6
 terminus-font 4.46-1
 tlp 1.1-1
+tor 0.3.3.9-1
 ttf-anonymous-pro 1.003-3
 ttf-fira-mono 2:3.206-2
 ttf-inconsolata 1:2.0.0.1-3
