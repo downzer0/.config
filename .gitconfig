@@ -1,0 +1,16 @@
+[core]
+    editor = "code" --wait
+    symlinks = true
+    autocrlf = input
+    fscache = true
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = true
+
+[user]
+    name = downzer0
+    email = f07c362@opayq.com
+    signingkey = 0x498162CEA6EE9670
